@@ -1,0 +1,6 @@
+{
+  "name": "OmniCampus - University Resource Hub",
+  "description": "Production-grade University Resource Hub featuring institutional SSO, RBAC, academic repository, library catalog, conflict-aware timetable builder, lab booking, administrative workflows, and campus events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

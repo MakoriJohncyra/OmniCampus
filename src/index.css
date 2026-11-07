@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+  /* Brand & Core Colors */
+  --bg-main: #f8fafc;
+  --bg-card: #ffffff;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  
+  /* Primary Action / Brand */
+  --primary: #1e3a8a;
+  --primary-hover: #1e40af;
+  --brand-navy: #312e81;
+  
+  /* Accents & Statuses */
+  --accent-action: #10b981;
+  --accent-action-hover: #059669;
+  --status-pending: #f59e0b;
+  --status-danger: #ef4444;
+
+  /* Borders & Dividers */
+  --border-color: #e2e8f0;
+}
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
